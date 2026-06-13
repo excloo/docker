@@ -4,6 +4,6 @@ name = "komodo"
 [resource_sync.config]
 delete = true
 git_account = "excloo"
-managed = true
 repo = "excloo/komodo"
 resource_path = ["."]
+webhook_enabled = true
