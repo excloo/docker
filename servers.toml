@@ -12,7 +12,7 @@ description = "TrueNAS (AU)"
 name = "au-truenas"
 
 [server.config]
-address = "https://periphery:8120"
+address = "http://truenas.au.excloo.dev:8120"
 enabled = true
-passkey = "fWgCf7hboeOQqOFt6E8TS23nuNj4UWH9"
+passkey = "h0Oh9t2Jei2J8wvTze2QeEdkcbuEBAHJ"
 region = "au"
